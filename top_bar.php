@@ -5,7 +5,7 @@
 					<div class="top__bar-left md-t-center">
 						<ul>
 							<li><a href="https://www.google.com/maps" target="_blank"><i class="fas fa-map-marker-alt"></i>2nd Floor CSS Bookshop House 50/52 Broad Street, Lagos</a></li>
-							<li><a href="mailto:hi@assistinvestmentadvisory.com"><i class="fas fa-envelope"></i>hi@assistinvestmentadvisory.com</a></li>
+							<li><a href="mailto:info@assistinvestmentadvisory.com"><i class="fas fa-envelope"></i>info@assistinvestmentadvisory.com</a></li>
 						</ul>
 					</div>
 				</div>

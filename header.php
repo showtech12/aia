@@ -13,8 +13,9 @@
 								<ul id="mobilemenu">
 									<li class=""><a href="index">Home</a></li>
 									<li class=""><a href="about_us">About Us</a></li>
+									<li class=""><a href="services">Product & Services</a></li>
 
-									<li class="menu-item-has-children"><a href="#">Product & Services</a>
+									<!-- <li class="menu-item-has-children"><a href="#">Product & Services</a>
 										<ul class="sub-menu">
 											<li><a href="">Mutual funds</a></li>
 											<li><a href="">Seperately Managed Accounts</a></li>
@@ -23,18 +24,19 @@
 											<li><a href="">Alternative Investment</a></li>
 											
 										</ul>
-									</li>
-									<li class="menu-item-has-children"><a href="#">Resources</a>
+									</li> -->
+
+									<!-- <li class="menu-item-has-children"><a href="#">Resources</a>
 										<ul class="sub-menu">
 											<li><a href="">Infrastructure Digest</a></li>
 											<li><a href="faq">FAQs</a></li>
 											<li><a href="">Download</a></li>
 											<li><a href="">Research Portal</a></li>
 										</ul>
-									</li>
+									</li> -->
 
 									
-									<!-- <li><a href="">FAQs</a></li> -->
+									<li><a href="faq">FAQs</a></li>
 									<li><a href="contact_us">Contact Us</a></li>
 								</ul>
 							</div>
@@ -51,7 +53,7 @@
 								</div>
 								<div class="header__area-menubar-right-tel-info">
 									<span>Call Us Now</span>
-									<h6 ><a href="tel:+2348067814394"  >+234 (0)806 781 4394</a></h6>
+									<h6 ><a href="tel:+2348067814394"  >+234 (0)902 572 5729</a></h6>
 								</div>
 							</div>
 							<div class="header__area-menubar-right-responsive-menu menu__bar">

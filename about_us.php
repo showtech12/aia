@@ -7,8 +7,8 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="description" content="ASSIST INVESTMENT ADVISOR LIMITED | About Us"/>
-	<meta name="keywords" content="Creative, Digital, multipage, landing, freelancer template"/>
-	<meta name="author" content="ThemeOri">
+	<meta name="keywords" content="ASSIST INVESTMENT ADVISOR LIMITED | About Us"/>
+	<meta name="author" content="AIA">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Title of Site -->
 	<title>ASSIST INVESTMENT ADVISOR LIMITED | About Us</title>
@@ -110,16 +110,16 @@
 							<span class="subtitle wow fadeInLeft" data-wow-delay=".4s">About Our Company</span>
 							<h2 class="title_split_anim mb-20">We Provide Smart Investment Solutions</h2>
 
-							<p class="wow fadeInUp" data-wow-delay=".4s">Assist Investment Advisory Limited is a next-generation asset management firm built for long-term growth, transparency, and consistent performance. We leverage data-driven investment strategies combined with personalized financial insights to help individuals and institutions achieve sustainable financial success.</p>	
+							<p class="wow fadeInUp" data-wow-delay=".4s">Assist Investment Advisory Limited is a venture capital firm based in Lagos, Nigeria, specializing in innovative tech startups and sustainable businesses. This firm provides strategic investments; however, it also offers growth support. Although the focus is on tech, the breadth of investments is notable because it encompasses various sectors.</p>	
                             
                          
-                            <p class="wow fadeInDown" data-wow-delay=".4s">We are building a next-generation asset management company designed for long-term growth, transparency, and performance. With our data-driven strategies and personalized financial insight, we are not just managing assets – we are growing futures.</p>
+                            <!-- <p class="wow fadeInDown" data-wow-delay=".4s">We are building a next-generation asset management company designed for long-term growth, transparency, and performance. With our data-driven strategies and personalized financial insight, we are not just managing assets – we are growing futures.</p>
 
                             <p class="wow fadeInUp" data-wow-delay=".4s">To investors, we offer a scalable, tech-forward platform with high potential returns and a clear path to expansion in untapped markets. To customers, we provide smart, tailored investment solutions that put their financial goals first – whether it is wealth preservation or aggressive growth.</p>
 
                             <p class="wow fadeInDown" data-wow-delay=".4s">To partners, we bring trust, alignment, and a shared vision for redefining how value is created and preserved in today’s fast-moving financial world.</p>
 
-                            <p class="wow fadeInUp" data-wow-delay=".4s">Assist Investment Advisory Limited is more than asset management, it is a movement toward smarter, more accessible financial empowerment. We are tech-enabled, data-driven powerhouse poised to redefine how wealth is managed and grown in modern world.</p>
+                            <p class="wow fadeInUp" data-wow-delay=".4s">Assist Investment Advisory Limited is more than asset management, it is a movement toward smarter, more accessible financial empowerment. We are tech-enabled, data-driven powerhouse poised to redefine how wealth is managed and grown in modern world.</p> -->
 
 
 						</div>
@@ -264,67 +264,58 @@
     </div> -->
 	<!-- Features Area End -->
 
-    <!-- Faq Area Start -->
-    <div class="faq__page overflow-hidden section-padding">
+  <!-- Services Area Start -->
+    <div class="services__page section-padding-three">
         <div class="container">
-            <div class="row al-center">
-                <div class="col-lg-6">
-                    <div class="faq__one-left mr-60 xl-mr-0 lg-mb-25">
-                        <div class="row al-center">
-                            <!-- <div class="col-6">
-                                <img class="one wow img_left_animation" src="assets/img/pages/faq1.jpg" alt="image">                             
-                                <img class="two mt-25 wow img_right_animation" src="assets/img/pages/faq1.jpg" alt="image">
-                            </div> -->
-                            <div class="col-12 container">
-                                <img class="three wow img_top_animation" src="assets/img/pages/faq1.jpg" alt="image">      
-                            </div>
-                        </div>
-                        <div class="faq__one-left-years bounce_y">
-                            <h3><span class="counter">15</span>+ Years</h3>
-                            <span>of Professionalism</span>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mt-25 wow fadeInUp" data-wow-delay=".4s">
+                    <div class="services__three-item">
+                        
+                        <div class="services__three-item-content">
+                            <!-- <span>01</span> -->
+                            <!-- <i class="flaticon-sales"></i> -->
+                             <img src="./assets/img/services/target.png" style="height:70px;width:70px" class="" />
+
+							<h5><a href="">Mission</a></h5>
+							<p>Expert financial advisory services to help businesses make financial decisions</p>
+                            <br>
+							
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="faq__one-right">
-                        <div class="faq__one-right-title mb-30">
-                            <span class="subtitle wow fadeInLeft" data-wow-delay=".4s">We’ve Got Answers</span>
-                                                        
-                        </div>
-                        <div class="wow fadeInUp" data-wow-delay=".9s" id="accordionExample">
-                            <div class="faq-item">
-                                <h6 class="icon" data-bs-toggle="collapse" data-bs-target="#collapseOne">What does Assist Investment Advisory Limited do?</h6>
-                                <div id="collapseOne" class="faq-item-body collapse show" data-bs-parent="#accordionExample">
-                                    <p>Assist Investment Advisory Limited provides professional investment advisory and asset management services. We help individuals and organizations grow, preserve, and strategically manage their wealth through data-driven and personalized investment solutions.</p>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Who can invest with Assist Investment Advisory Limited?</h6>
-                                <div id="collapseTwo" class="faq-item-body collapse" data-bs-parent="#accordionExample">
-                                    <p>Our services are designed for individuals, high-net-worth clients, businesses, and institutions seeking structured, transparent, and long-term investment solutions.</p>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">How are investment strategies developed?</h6>
-                                <div id="collapseThree" class="faq-item-body collapse" data-bs-parent="#accordionExample">
-                                    <p>Our investment strategies are based on market research, data analysis, risk assessment, and client-specific financial goals. Each strategy is carefully designed to align with your objectives and risk tolerance.</p>
-                                </div>
-                            </div>
-
-                            <div class="faq-item">
-                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour">Do you offer customized investment solutions?</h6>
-                                <div id="collapseFour" class="faq-item-body collapse" data-bs-parent="#accordionExample">
-                                    <p>Yes. We provide tailored investment solutions designed around your financial goals, investment horizon, and risk profile. No two clients receive the same investment plan.</p>
-                                </div>
-                            </div>
-
+                <div class="col-lg-4 col-md-6 mt-25 wow fadeInUp" data-wow-delay=".7s">
+                    <div class="services__three-item">
+                        
+                        <div class="services__three-item-content">
+                            <!-- <span>02</span> -->
+                            <!-- <i class="flaticon-coding-1"></i> -->
+                              <img src="./assets/img/services/opportunity.png" style="height:70px;width:70px" class="" />
+							<h5><a href="">Vision</a></h5>
+							<p>To be the trusted partner in wealth creation, delivering tailored investment opportunities for our clients</p>
+							
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 mt-25 wow fadeInUp" data-wow-delay="1s">
+                    <div class="services__three-item">
+                        
+                        <div class="services__three-item-content">
+                            <!-- <span>03</span> -->
+                            <!-- <i class="flaticon-exploration"></i> -->
+                              <img src="./assets/img/services/integrity.png" style="height:70px;width:70px" class="" />
+							<h5><a href="">Core values</a></h5>
+							<p>Excellence, Professionalism, Innovation, Integrity, Commitment</p>
+                            <br>
+                            
+							
+                        </div>
+                    </div>
+                </div>
+               
             </div>
         </div>
     </div>
-	<!-- Faq Area End --> 
+    <!-- Services Area End -->
 	<!-- Footer Area Start -->
 	<?php include 'footer.php'; ?>
 	<!-- Footer Area End -->

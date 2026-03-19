@@ -93,7 +93,13 @@
 	<!-- Faq Area Start -->
    <div class="faq__page overflow-hidden section-padding">
         <div class="container">
-            <div class="row al-center">
+           
+
+
+			
+			 <div class="row al-center">
+
+
                 <div class="col-lg-6">
                     <div class="faq__one-left mr-60 xl-mr-0 lg-mb-25">
                         <div class="row al-center">
@@ -111,43 +117,156 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-6">
                     <div class="faq__one-right">
                         <div class="faq__one-right-title mb-30">
                             <span class="subtitle wow fadeInLeft" data-wow-delay=".4s">We’ve Got Answers</span>
                                                         
                         </div>
-                        <div class="wow fadeInUp" data-wow-delay=".9s" id="accordionExample">
+
+						<p class="">This frequently Q&A guide is designed to bridge the gap between Assist Investment Advisory Limited and potential clients (founders/startups) by covering key areas of interest, including investment strategy, the due diligence process, and partnership dynamics. </p>
+
+                        <div class="wow fadeInUp container mt-4" data-wow-delay=".9s" id="accordionExample">
+
+							<p class="text-bold fs-4 text-black">General VC & Investment Strategy</p>
+
                             <div class="faq-item">
                                 <h6 class="icon" data-bs-toggle="collapse" data-bs-target="#collapseOne">What does Assist Investment Advisory Limited do?</h6>
+
                                 <div id="collapseOne" class="faq-item-body collapse show" data-bs-parent="#accordionExample">
-                                    <p>Assist Investment Advisory Limited provides professional investment advisory and asset management services. We help individuals and organizations grow, preserve, and strategically manage their wealth through data-driven and personalized investment solutions.</p>
+
+                                    <p> We invest in [e.g., B2B SaaS, Seed-stage, Healthcare, FMCG etc] companies with high growth potential. We look for disruptive, scalable business models, typically targeting a good total addressable market (TAM).</p>
+
                                 </div>
+
                             </div>
                             <div class="faq-item">
-                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Who can invest with Assist Investment Advisory Limited?</h6>
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">What stage do you invest in?</h6>
                                 <div id="collapseTwo" class="faq-item-body collapse" data-bs-parent="#accordionExample">
-                                    <p>Our services are designed for individuals, high-net-worth clients, businesses, and institutions seeking structured, transparent, and long-term investment solutions.</p>
+                                    <p>We primarily invest in [pre-seed/seed/Series A/Growth stage] companies</p>
                                 </div>
                             </div>
                             <div class="faq-item">
-                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">How are investment strategies developed?</h6>
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Do you lead investment rounds?</h6>
                                 <div id="collapseThree" class="faq-item-body collapse" data-bs-parent="#accordionExample">
-                                    <p>Our investment strategies are based on market research, data analysis, risk assessment, and client-specific financial goals. Each strategy is carefully designed to align with your objectives and risk tolerance.</p>
+                                    <p> Yes, we frequently lead rounds, setting the terms, or we can participate as a follow-on investor.</p>
                                 </div>
                             </div>
 
                             <div class="faq-item">
-                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour">Do you offer customized investment solutions?</h6>
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour">What is the typical check size?</h6>
                                 <div id="collapseFour" class="faq-item-body collapse" data-bs-parent="#accordionExample">
-                                    <p>Yes. We provide tailored investment solutions designed around your financial goals, investment horizon, and risk profile. No two clients receive the same investment plan.</p>
+                                    <p>Our initial investments are all about something we consider reasonable given our deep research and insight with significant reserves for follow-on funding to support you through subsequent rounds. </p>
                                 </div>
                             </div>
 
                         </div>
                     </div>
                 </div>
+
+
             </div>
+
+			<div class="row al-center"> 
+				<div class="col-lg-6">
+                    <div class="faq__one-right">
+                       
+
+						
+
+                        <div class="wow fadeInUp container mt-4" data-wow-delay=".9s" id="accordionExample">
+
+							<p class="text-bold fs-4 text-black">The Pitch & Due Diligence Process:</p>
+
+                            <div class="faq-item">
+                                <h6 class="icon" data-bs-toggle="collapse" data-bs-target="#collapse1">What do you look for in a pitch deck?</h6>
+
+                                <div id="collapse1" class="faq-item-body collapse show" data-bs-parent="#accordionExample">
+
+                                    <p> A clear, concise presentation covering the problem, solution, market size (TAM), team, traction, competitive advantage, and financial model. We look for a compelling story and a “why now?” factor</p>
+
+                                </div>
+
+                            </div>
+                            <div class="faq-item">
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapse2">How do you evaluate a startup?</h6>
+                                <div id="collapse2" class="faq-item-body collapse" data-bs-parent="#accordionExample">
+                                    <p>Our evaluation focuses on the quality of the management team, market opportunity, early traction, competitive advantage, and financial metrics.</p>
+                                </div>
+                            </div>
+                            <div class="faq-item">
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapse3">What does the due diligence process look like?</h6>
+                                <div id="collapse3" class="faq-item-body collapse" data-bs-parent="#accordionExample">
+                                    <p> It involves a deep dive into your business, including</p>
+
+									<div>
+										<ul>
+											<li> <b>Financials:</b>  Revenue growth, burn rate, unit economics</li>
+											<li> <b>Legal:</b>  Corporate structure, IP ownership, cap table.</li>
+											<li> <b>Product:</b>  Technical validation, IP, and roadmap.</li>
+											<li> <b>References:</b>  Background checks on founders and team.</li>
+											<li></li>
+										</ul>
+									</div>
+                                </div>
+                            </div>
+
+                            <div class="faq-item">
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapse4">How long does the process take?</h6>
+                                <div id="collapse4" class="faq-item-body collapse" data-bs-parent="#accordionExample">
+                                    <p>Typically, it takes [2 to 4 weeks] from initial meeting to term sheet.  </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+				<div class="col-lg-6">
+                    <div class="faq__one-right">
+                       
+
+						
+
+                        <div class="wow fadeInUp container mt-4" data-wow-delay=".9s" id="accordionExample">
+
+							<p class="text-bold fs-4 text-black">Partnership & Value-Add:</p>
+
+                            <div class="faq-item">
+                                <h6 class="icon" data-bs-toggle="collapse" data-bs-target="#collapse5">What do you bring to the table beyond capital?</h6>
+
+                                <div id="collapse5" class="faq-item-body collapse show" data-bs-parent="#accordionExample">
+
+                                    <p> We offer strategic guidance, operational mentorship, access to our extensive network for talent acquisition, and introductions to potential customers.</p>
+
+                                </div>
+
+                            </div>
+                            <div class="faq-item">
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapse6">What are your expectations regarding board involvement?</h6>
+                                <div id="collapse6" class="faq-item-body collapse" data-bs-parent="#accordionExample">
+                                    <p>We generally take a board seat in [Series A/earlier] rounds and expect regular, transparent communication (monthly/quarterly).</p>
+                                </div>
+                            </div>
+                           
+
+                            <div class="faq-item">
+                                <h6 class="icon collapsed" data-bs-toggle="collapse" data-bs-target="#collapse8">How do you support founders during tough times?</h6>
+                                <div id="collapse8" class="faq-item-body collapse" data-bs-parent="#accordionExample">
+                                    <p>We act as partners, not just investors, providing strategic advice and leveraging our network to help navigate challenges.  </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+			</div>
+			
+
         </div>
     </div>
 	<!-- Faq Area End -->  

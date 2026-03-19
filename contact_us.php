@@ -6,12 +6,12 @@
 	<!-- Start Meta -->
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-	<meta name="description" content="FinGo - Business Consulting HTML Template"/>
-	<meta name="keywords" content="Creative, Digital, multipage, landing, freelancer template"/>
-	<meta name="author" content="ThemeOri">
+	<meta name="description" content="ASSIST INVESTMENT ADVISOR LIMITED"/>
+	<meta name="keywords" content="ASSIST INVESTMENT ADVISOR LIMITED/>
+	<meta name="author" content="ASSIST INVESTMENT ADVISOR LIMITED">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Title of Site -->
-	<title>FinGo - Business Consulting HTML Template</title>
+	<title>ASSIST INVESTMENT ADVISOR LIMITED</title>
 	<!-- Favicons -->
 	<link rel="icon" type="image/png" href="assets/img/favicon.png">
 	<!-- Bootstrap CSS -->
@@ -104,7 +104,7 @@
                     <div class="contact__info-item">
                         <i class="flaticon-email"></i>
                         <span>Email :</span>
-                        <h5><a href="mailto:hi@assistinvestmentadvisory.com">hi@assistinvestmentadvisory.com</a> <br> <br>
+                        <h5><a href="mailto:info@assistinvestmentadvisory.com">info@assistinvestmentadvisory.com</a> <br> <br>
                     </h5>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                     <div class="contact__info-item">
                         <i class="flaticon-phone-call"></i>
                         <span>Phone :</span>
-                        <h5><a href="tel:+2348067814394">+234 (0)806 781 4394</a> <br> <br>
+                        <h5><a href="tel:+2348067814394">+234 (0)902 572 5729</a> <br> <br>
                     </h5>
                     </div>
                 </div>

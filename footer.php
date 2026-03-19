@@ -18,7 +18,7 @@
 										</div>
 										<div class="footer__cta-area-right-tel-info">
 											<span>Call Us Now</span>
-											<h6><a href="tel:+2348067814394">+234 (0)806 781 4394</a></h6>
+											<h6><a href="tel:+2348067814394">+234 (0)902 572 5729</a></h6>
 										</div>
 									</div>
 								</div>
@@ -36,7 +36,7 @@
 				<div class="col-lg-3 col-sm-6">
 					<div class="footer__one-widget">
 						<a class="logo" href=""><img src="assets/img/logo4.png" alt="logo"></a>
-						<p>Assist Investment Advisory Limited is a next-generation asset management firm built for long-term growth, transparency, and consistent performance.</p>
+						<p>Assist Investment Advisory Limited (located in Lagos, Nigeria) specializes in venture capital investments. It focuses on tech startups, FMCG, health, real estate and sustainable businesses to drive long-term growth; however, the landscape is competitive.</p>
 					</div>
 				</div>
 				<div class="col-lg-2 col-sm-6 sm-mt-30">

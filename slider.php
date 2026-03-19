@@ -2,7 +2,7 @@
 		<div class="banner swiper banner-slider">
 			<div class="swiper-wrapper">
 
-				<div class="banner__one-image swiper-slide" style="background-image: url('assets/img/banner/bg23.png');">
+				<!-- <div class="banner__one-image swiper-slide" style="background-image: url('assets/img/banner/bg23.png');">
 					<div class="container">
 						<div class="row">
 							<div class="col-xl-12">
@@ -17,7 +17,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 
 				<div class="banner__one-image swiper-slide" style="background-image: url('assets/img/banner/bg4');">
 					<div class="container">
